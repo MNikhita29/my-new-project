@@ -1,0 +1,11 @@
+SourceTitle,Number of Cases,Root Causes
+Butchering machinery,283,"[('employee', 399), ('finger', 186), ('machine', 138), ('saw', 125), ('hand', 115), ('amputated', 109), ('index', 97), ('fingertip', 95), ('blade', 92), ('amputation', 83)]"
+Conveyors-belt,296,"[('employee', 465), ('belt', 405), ('conveyor', 262), ('caught', 178), ('finger', 177), ('hand', 174), ('fingertip', 79), ('amputation', 76), ('resulting', 71), ('amputated', 67)]"
+"Food and beverage processing machinery-specialized, n.e.c.",326,"[('employee', 458), ('machine', 255), ('hand', 185), ('finger', 175), ('caught', 115), ('amputated', 114), ('fingertip', 113), ('index', 81), ('amputation', 80), ('dough', 77)]"
+"Forklift, order picker, platform truck-powered",298,"[('employee', 496), ('forklift', 406), ('finger', 191), ('hand', 181), ('caught', 109), ('forks', 90), ('amputation', 72), ('truck', 62), ('fingertip', 62), ('operating', 59)]"
+"Machinery, unspecified",916,"[('employee', 1400), ('machine', 694), ('finger', 582), ('hand', 469), ('caught', 397), ('amputation', 334), ('fingertip', 306), ('amputated', 261), ('index', 227), ('resulting', 224)]"
+"Metal, woodworking, and special material machinery, n.e.c.",320,"[('employee', 477), ('machine', 380), ('finger', 202), ('hand', 163), ('caught', 114), ('amputated', 105), ('fingertip', 92), ('index', 92), ('amputation', 74), ('wire', 56)]"
+"Metal, woodworking, and special material machinery, unspecified",516,"[('employee', 798), ('machine', 573), ('finger', 321), ('hand', 258), ('caught', 192), ('amputated', 175), ('fingertip', 161), ('amputation', 156), ('index', 154), ('resulting', 105)]"
+Nonclassifiable,482,"[('employee', 700), ('finger', 318), ('hand', 195), ('fingertip', 148), ('amputation', 142), ('amputated', 128), ('index', 109), ('caught', 90), ('resulting', 73), ('suffered', 69)]"
+"Sawing machinery-stationary, n.e.c.",378,"[('employee', 555), ('saw', 524), ('hand', 244), ('finger', 222), ('blade', 182), ('amputated', 153), ('cut', 125), ('index', 117), ('chop', 98), ('wood', 90)]"
+Table saws,337,"[('saw', 508), ('employee', 495), ('table', 349), ('blade', 232), ('finger', 215), ('hand', 200), ('cutting', 153), ('wood', 136), ('amputated', 129), ('cut', 114)]"
